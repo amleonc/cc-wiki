@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "6cf186eb166cf169",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca969227c7e167d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dac1c56e862c044a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Asignaturas/Cálculo Diferencial en una Variable/0. Resumen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ade2c52f63567689",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Asignaturas/Cálculo Diferencial en una Variable/Funciones y modelos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2501ae5ca3fa3427",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d6789d650e8f85d1",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "446e2dbd4ade9fa7",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "d12133c608268a2e",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "85c58fb1b605b1c5",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "96225201d4afa61c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f8fb1fd9e7129e34",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "1. Asignaturas/Cálculo Diferencial en una Variable/Funciones y modelos.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "834d7021caae4f39",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "1. Asignaturas/Cálculo Diferencial en una Variable/Funciones y modelos.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "148e6dbfb259bc43",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "1. Asignaturas/Cálculo Diferencial en una Variable/Funciones y modelos.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "ade2c52f63567689",
+  "lastOpenFiles": [
+    "2. Bibliografía/Qué es una función.md",
+    "1. Asignaturas/Cálculo Diferencial en una Variable/Funciones y modelos.md",
+    "2. Bibliografía",
+    "1. Asignaturas",
+    "1. Asignaturas/Cálculo Diferencial en una Variable/0. Resumen.md",
+    "Inicio.md",
+    "1. Asignaturas/Introducción a las Ciencias de la Computación y a la Programación/Resumen.md",
+    "1. Asignaturas/Fundamentos de Matemáticas/Resumen.md",
+    "0. Plantillas/Plantilla plan de estudios.md",
+    "Inicio.sync-conflict-20230616-235433-4PUVSQB.md",
+    "Semestre I/Introducción a las Ciencias de la Computación y a la Programación/Resumen.md",
+    "1. Asignaturas/Introducción a las Ciencias de la Computación y a la Programación",
+    "1. Asignaturas/Fundamentos de Matemáticas",
+    "1. Asignaturas/Cálculo Diferencial en una Variable",
+    "Semestre I/Fundamentos de Matemáticas/Resumen.md",
+    "Semestre I/Cálculo Diferencial en una Variable/Resumen.md"
+  ]
+}
